@@ -1,9 +1,9 @@
 # Portafolio
-## Desarrollador FrontEnd React. *Fun While Coding* ✨
+## Desarrollador FrontEnd React. *Have fun while you code* ✨
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-En este portafolio se listan los proyecto que he hecho y en los que he trabajado-
+En este portafolio se listan los proyecto que he hecho y en los que he trabajado.
 
 
 ## Índice
