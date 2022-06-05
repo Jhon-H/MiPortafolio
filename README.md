@@ -106,7 +106,7 @@ Sitio web de peliculas, puedes filtrar por rating y puede agregar tus propias pe
 ### Imágenes
 
 ### Despliegue
-[Ver My-Music-App](https://music-app-47033.web.app/auth/login) ➖
+[Ver BlockMaster](https://jhon-h.github.io/block-master/) ➖
 [Proyecto en Github](https://github.com/Jhon-H/block-master)
 
 <br />
