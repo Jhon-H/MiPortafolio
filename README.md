@@ -228,7 +228,7 @@ App para ver las películas en cartelera.
 <br />
 <div id="tienda-geek" />
 
-## TiendaGeek
+## TiendaGeek 🛒
 ### Descripción
 E-commerce de ropa, simula pago con tarjeta y carrito. Diseño mobile
 
@@ -247,7 +247,7 @@ E-commerce de ropa, simula pago con tarjeta y carrito. Diseño mobile
 <br />
 <div id="pokedex" />
 
-## Pokedex
+## Pokedex ⭐
 ### Descripción
 App diseño pokemones.
 
@@ -262,7 +262,7 @@ App diseño pokemones.
 <br />
 <div id="imc" />
 
-## IMC
+## IMC 🧔
 ### Descripción
 App que calculo el IMC basandose en el peso y la altura, e indica el nivel de salud en que se encuentra.
 
