@@ -12,13 +12,13 @@ En este portafolio se listan los proyecto que he hecho y en los que he trabajado
 * [AlgoHispano](#algo-hispano)
 * [BlockMaster](#block-master)
 * [DailyBits](#daily-bits)
+* [TiendaGeek](#tienda-geek)
 * [Catastro (Next) ](#catastro)
 * [Citas Médicas](#citas-medicas)
 * [IosCalculator (React Native)](#ios-calculator)
 * [MoviesApp (React Native)](#movie-app)
 * [HeoresApp](#heroes-app)
 * [Giffy](#giffy)
-* [TiendaGeek](#tienda-geek)
 * [Pokedex](#pokedex)
 * [IMC](#imc)
 * [Gif-Expert](#gif-expert)
@@ -110,31 +110,23 @@ Sitio web de peliculas, puedes filtrar por rating y puede agregar tus propias pe
 [Proyecto en Github](https://github.com/Jhon-H/block-master)
 
 <br />
-<div id="heroes-app" />
+<div id="tienda-geek" />
 
-## HeroesApp 🦸
-### Descipción
-App que consume api de superherores y los lista, permite filtrar por DC o Marvel
-
-### Herramientas
-- React
-- Redux
-- Redux Thunk
-- Jest - enzyme
-- query-string
-
-### Imágenes
-### Despliegue
-
-<br />
-<div id="giffy" />
-
-## giffy 🔷
+## TiendaGeek 🛒
 ### Descripción
-### Herramientas
-### Imágenes
-### Despliegue
+E-commerce de ropa, simula pago con tarjeta y carrito. Diseño mobile
 
+### Herramientas
+-Html
+-Css
+-Javascript
+-LocalStorage
+
+### Imágenes
+
+### Despliegue
+[Ver TiendaGeek](https://tienda-geeek.netlify.app/index.html) ➖
+[Proyecto en Github](https://github.com/Jhon-H/Modulo3/tree/main/E-commerce-F)
 
 <br />
 <div id="daily-bits" />
@@ -226,23 +218,30 @@ App para ver las películas en cartelera.
 ### Despliegue
 
 <br />
-<div id="tienda-geek" />
+<div id="heroes-app" />
 
-## TiendaGeek 🛒
-### Descripción
-E-commerce de ropa, simula pago con tarjeta y carrito. Diseño mobile
+## HeroesApp 🦸
+### Descipción
+App que consume api de superherores y los lista, permite filtrar por DC o Marvel
 
 ### Herramientas
--Html
--Css
--Javascript
--LocalStorage
+- React
+- Redux
+- Redux Thunk
+- Jest - enzyme
+- query-string
 
 ### Imágenes
-
 ### Despliegue
-[Ver TiendaGeek](https://tienda-geeek.netlify.app/index.html) ➖
-[Proyecto en Github](https://github.com/Jhon-H/Modulo3/tree/main/E-commerce-F)
+
+<br />
+<div id="giffy" />
+
+## giffy 🔷
+### Descripción
+### Herramientas
+### Imágenes
+### Despliegue
 
 <br />
 <div id="pokedex" />
